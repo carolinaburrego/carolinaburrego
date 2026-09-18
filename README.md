@@ -34,19 +34,13 @@
 
 </div>
 
-<br>
+## 🐍 GitHub Contributions
 
-I'm **Carolina Da Silva Burrego**, a Software Engineering student passionate about technology and software development.
-
-Currently, I'm developing my skills mainly in **Java, Spring Boot, MySQL, HTML, CSS and JavaScript**, while also exploring **UI/UX Design with Figma**.
-
-I'm constantly learning through academic and personal projects, looking for opportunities to transform ideas into functional and well-structured solutions.
-
-<br>
-
----
-
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolinaburrego/carolinaburrego/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolinaburrego/carolinaburrego/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/carolinaburrego/carolinaburrego/output/github-snake.svg">
+</picture>
 
 ## 𝙏𝙀𝘾𝙃 𝙎𝙏𝘼𝘾𝙆
 
@@ -133,3 +127,4 @@ I'm constantly learning through academic and personal projects, looking for oppo
 ---
 
 <div align="center">
+
